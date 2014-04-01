@@ -1,4 +1,3 @@
-//okba lanabi cs master2
 #include <iostream>
 #include <cv.h>
 #include <highgui.h>
